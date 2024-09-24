@@ -1,7 +1,8 @@
-Introduction to Parallel Programming Using Python
-=================================================
+Introduction to Numba
+=====================
 
-This repository provides an introduction to the concepts of parallel programming using Python.
+This repository provides a comprehensive guide to understanding and utilizing Numba, a Just-in-Time (JIT) 
+compiler for Python that is designed to speed up numerical and scientific computing.
 
 .. note::
 
@@ -10,24 +11,16 @@ This repository provides an introduction to the concepts of parallel programming
 Contents
 --------
 
-.. list-table:: Tutorial Contents
+.. list-table:: Topic Covered
    :widths: 20 20 
    :header-rows: 1   
  
    * - Topics
      - Duration
-   * - Requesting a Job
-     - 20 minutes
-   * - High-level HPC Architecture
-     - 25 minutes
-   * - Vector Parallelism
-     - 25 minutes
-   * - Multi-core Parallelism
-     - 25 minutes
-   * - GPU Parallelism
-     - 40 minutes
-   * - GPU Parallelism
-     - 25 minutes
+   * - CPU Parallelisation
+     - 1.5 Hours
+   * - GPU Parallelisation
+     - 1.5 Hours
 
 
 
